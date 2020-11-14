@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="12e66d4a-6833-4fbd-92ba-c39adea2ccc3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1h4ir9zSyGrNFfq56gmq2J1B3ex" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager">
+    <configuration name="settings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mysite1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mysite1" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mysite1/settings.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.settings" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12e66d4a-6833-4fbd-92ba-c39adea2ccc3" name="Default Changelist" comment="" />
+      <created>1599276964625</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599276964625</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="209" y="27" width="660" height="637" key="#settings" timestamp="1599285922320">
+      <screen x="67" y="27" width="941" height="637" />
+    </state>
+    <state x="209" y="27" width="660" height="637" key="#settings/67.27.941.637@67.27.941.637" timestamp="1599285922320" />
+    <state x="261" y="102" key="FileChooserDialogImpl" timestamp="1599277031888">
+      <screen x="67" y="27" width="941" height="637" />
+    </state>
+    <state x="261" y="102" key="FileChooserDialogImpl/67.27.941.637@67.27.941.637" timestamp="1599277031888" />
+    <state width="931" height="136" key="GridCell.Tab.0.bottom" timestamp="1599286029527">
+      <screen x="67" y="27" width="957" height="741" />
+    </state>
+    <state width="931" height="136" key="GridCell.Tab.0.bottom/67.27.957.741@67.27.957.741" timestamp="1599286029527" />
+    <state width="931" height="136" key="GridCell.Tab.0.center" timestamp="1599286029527">
+      <screen x="67" y="27" width="957" height="741" />
+    </state>
+    <state width="931" height="136" key="GridCell.Tab.0.center/67.27.957.741@67.27.957.741" timestamp="1599286029527" />
+    <state width="931" height="136" key="GridCell.Tab.0.left" timestamp="1599286029526">
+      <screen x="67" y="27" width="957" height="741" />
+    </state>
+    <state width="931" height="136" key="GridCell.Tab.0.left/67.27.957.741@67.27.957.741" timestamp="1599286029526" />
+    <state width="931" height="136" key="GridCell.Tab.0.right" timestamp="1599286029527">
+      <screen x="67" y="27" width="957" height="741" />
+    </state>
+    <state width="931" height="136" key="GridCell.Tab.0.right/67.27.957.741@67.27.957.741" timestamp="1599286029527" />
+    <state x="67" y="31" key="SettingsEditor" timestamp="1599293222567">
+      <screen x="67" y="27" width="957" height="741" />
+    </state>
+    <state x="67" y="31" key="SettingsEditor/67.27.957.741@67.27.957.741" timestamp="1599293222567" />
+  </component>
+</project>
